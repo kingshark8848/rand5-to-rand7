@@ -15,9 +15,13 @@ Use it to write a method rand7() that generates a random integer from 1 to 7.
 Roll1 of rand5() to determine 5 base range. Result of roll1 and base range is:
 
 1: 0*5 + roll2, 1-5
+
 2: 1*5 + roll2, 6-10
+
 3: 2*5 + roll2, 11-15
+
 4: 3*5 + roll2, 16-20
+
 5: 4*5 + roll2, 21-25
 
 roll2 of rand5() to determin the function result. use formula above.
